@@ -2,7 +2,7 @@
   "name": "readonly",
   "main": "./lib/readonly",
   "version": "0.0.0",
-  "description": "Change files to read-only.",
+  "description": "Toogle a file's read-only status.",
   "keywords": [
     "readonly",
     "read only"
