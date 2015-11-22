@@ -1,0 +1,21 @@
+{
+  "name": "readonly",
+  "main": "./lib/readonly",
+  "version": "0.0.0",
+  "description": "Change files to read-only.",
+  "keywords": [
+    "readonly",
+    "read only"
+  ],
+  "activationCommands": {
+    "atom-workspace": "readonly:toggle"
+  },
+  "repository": "https://github.com/dannyfritz/atom-readonly",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "mode-to-permissions": "0.0.1"
+  }
+}
