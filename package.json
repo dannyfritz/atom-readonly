@@ -1,7 +1,7 @@
 {
   "name": "readonly",
   "main": "./lib/readonly",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Toogle a file's read-only status.",
   "keywords": [
     "readonly",
